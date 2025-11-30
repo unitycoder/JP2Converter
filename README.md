@@ -23,6 +23,7 @@ Tested with Maanmittauslaitos ortho images https://asiointi.maanmittauslaitos.fi
 <img width="486" height="117" alt="image" src="https://github.com/user-attachments/assets/0143d84b-cd94-4d63-9cd3-b5cfcdfbabec" />
 <img width="266" height="243" alt="image" src="https://github.com/user-attachments/assets/03c25739-ba7e-4689-b71b-4721baf6fe0d" />
 <img width="500" height="178" alt="image" src="https://github.com/user-attachments/assets/2b6c687f-a111-4bfc-bdc8-29e3d727f415" />
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/f493149e-025b-4441-82e3-68d2447a4605" />
 
 
 
