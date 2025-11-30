@@ -1,6 +1,8 @@
 # JP2Converter
 Windows commandline converter for .jp2 ortho images into jpg/png/tiff with separate XML/JSON metadata.
 
+Tested with Maanmittauslaitos ortho images https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/ortoilmakuva?lang=en
+
 ### Usage
 ```
   Jp2OrthoConverter.exe <inputPath> [--format jpg|png|tiff] [--out <outputFolder>]
