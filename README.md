@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/VibeCoded-100%25-green" alt="AI Generated Content"/>
+
 # JP2Converter
 Windows commandline converter for .jp2 ortho images into jpg/png/tiff with separate XML/JSON metadata.
 
